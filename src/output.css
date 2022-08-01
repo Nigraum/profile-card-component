@@ -558,8 +558,22 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
+.my-auto {
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.my-96 {
+  margin-top: 24rem;
+  margin-bottom: 24rem;
+}
+
 .flex {
   display: flex;
+}
+
+.h-1\/2 {
+  height: 50%;
 }
 
 .w-8 {
@@ -580,6 +594,18 @@ video {
 
 .justify-center {
   justify-content: center;
+}
+
+.overflow-hidden {
+  overflow: hidden;
+}
+
+.rounded-full {
+  border-radius: 9999px;
+}
+
+.rounded-xl {
+  border-radius: 0.75rem;
 }
 
 .bg-desaturated-300 {
