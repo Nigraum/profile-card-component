@@ -557,3 +557,66 @@ video {
   --tw-backdrop-saturate:  ;
   --tw-backdrop-sepia:  ;
 }
+
+.flex {
+  display: flex;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.bg-desaturated-300 {
+  --tw-bg-opacity: 1;
+  background-color: hsl(229 23% 23% / var(--tw-bg-opacity));
+}
+
+.bg-grayBlue-300 {
+  --tw-bg-opacity: 1;
+  background-color: hsl(227 10% 46% / var(--tw-bg-opacity));
+}
+
+.bg-darkCyan-300 {
+  --tw-bg-opacity: 1;
+  background-color: hsl(185 75% 39% / var(--tw-bg-opacity));
+}
+
+.bg-top {
+  background-image: url(/assets/images/bg-pattern-top.svg);
+}
+
+.bg-bottom {
+  background-image: url(/assets/images/bg-pattern-bottom.svg);
+}
+
+.bg-cover {
+  background-size: cover;
+}
+
+.bg-top {
+  background-position: top;
+}
+
+.bg-center {
+  background-position: center;
+}
+
+.bg-bottom {
+  background-position: bottom;
+}
+
+.bg-left-top {
+  background-position: left top;
+}
+
+.bg-left-bottom {
+  background-position: left bottom;
+}
+
+.bg-no-repeat {
+  background-repeat: no-repeat;
+}
