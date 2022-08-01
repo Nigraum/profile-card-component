@@ -2,9 +2,13 @@
 module.exports = {
   content: ["./src/**/*.{html,js}"],
   theme: {
+    screens: {
+      'md': '768px',
+    },
     extend: {
-      screens: {
-        'md': '768px',
+      backgroundImage: {
+        top: 'url(/assets/images/bg-pattern-top.svg)',
+        bottom: 'url(/assets/images/bg-pattern-bottom.svg)',
       },
       fontFamily: {
         kumbh: ['Kumbh Sans', 'sans-serif'],
