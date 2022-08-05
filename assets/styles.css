@@ -40,6 +40,13 @@ body {
     z-index: -1;
 }
 
+.bg-bottom {
+    position: absolute;
+    bottom: -50%;
+    right: -20%;
+    z-index: -1;
+}
+
 footer { 
     font-size: 11px; 
     text-align: center; 
