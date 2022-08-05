@@ -58,6 +58,10 @@ body {
     position: relative;
 }
 
+.container .article-one img {
+    border-radius: 1rem 1rem 0 0;
+}
+
 footer { 
     font-size: 11px; 
     text-align: center; 
