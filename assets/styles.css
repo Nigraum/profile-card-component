@@ -62,7 +62,7 @@ body {
     border-radius: 1rem 1rem 0 0;
 }
 
-.container .article-one div img {
+.container .article-one .profile-photo img {
     border-radius: 50%;
     width: 6rem;
     position: absolute;
