@@ -47,6 +47,13 @@ body {
     z-index: -1;
 }
 
+.container {
+    background-color: #fff;
+    width: 100%;
+    max-width: 500px;
+    border-radius: 1rem;
+}
+
 footer { 
     font-size: 11px; 
     text-align: center; 
