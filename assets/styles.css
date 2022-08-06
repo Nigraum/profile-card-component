@@ -93,6 +93,12 @@ body {
     padding: 2rem;
 }
 
+.container .stats ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 footer { 
     font-size: 11px; 
     text-align: center; 
