@@ -28,7 +28,7 @@ body {
     flex-direction: column;
     align-items: center;
     justify-items: center;
-    min-height: calc(100vh - 1px);
+    min-height: calc(100vh - 0.1rem);
     background-color: var(--dark-cyan);
     overflow: hidden;
 }
@@ -52,6 +52,7 @@ body {
     width: 100%;
     max-width: 500px;
     border-radius: 1rem;
+    margin: auto auto;
 }
 
 .container .article-one {
