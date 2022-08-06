@@ -72,6 +72,11 @@ body {
     border: 5px solid #fff;
 }
 
+.container .article-text {
+    text-align: center;
+    margin-top: 3rem;
+}
+
 footer { 
     font-size: 11px; 
     text-align: center; 
