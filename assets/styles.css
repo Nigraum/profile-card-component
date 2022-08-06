@@ -96,7 +96,7 @@ body {
 .container .stats ul {
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
 }
 
 .container .stats ul li {
