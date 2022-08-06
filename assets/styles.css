@@ -99,6 +99,13 @@ body {
     justify-content: center;
 }
 
+.container .stats ul li {
+    font-weight: 700;
+    color: var(--desaturated-blue);
+    font-size: 1.4rem;
+    text-align: center;
+}
+
 footer { 
     font-size: 11px; 
     text-align: center; 
