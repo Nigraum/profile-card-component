@@ -77,6 +77,11 @@ body {
     margin-top: 3rem;
 }
 
+.container .article-text .age {
+    font-weight: 400;
+    color: var(--gray-blue);
+}
+
 footer { 
     font-size: 11px; 
     text-align: center; 
