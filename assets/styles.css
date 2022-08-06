@@ -88,6 +88,11 @@ body {
     padding-bottom: 2rem;
 }
 
+.container .stats {
+    border-top: 1px solid var(--gray-blue, 0.2);
+    padding: 2rem;
+}
+
 footer { 
     font-size: 11px; 
     text-align: center; 
