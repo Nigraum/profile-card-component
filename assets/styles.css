@@ -82,6 +82,12 @@ body {
     color: var(--gray-blue);
 }
 
+.container .article-text p {
+    color: var(--gray-blue);
+    margin-top: 1rem;
+    padding-bottom: 2rem;
+}
+
 footer { 
     font-size: 11px; 
     text-align: center; 
